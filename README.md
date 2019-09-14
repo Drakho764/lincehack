@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+![Imagen](https://www.hogarmania.com/archivos/201104/consejos-gatos-xl-668x400x80xX.jpg)
+# Taller en linceHackkkkk
+Estamos en un **taller** 
 
-You can use the [editor on GitHub](https://github.com/Drakho764/lincehack/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Que vamos a aprender:
+* Item 1
+* Item 2
+### Las tecnologías que estoy usando
+* php
+* mysql
+* gthub
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
